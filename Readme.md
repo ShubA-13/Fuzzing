@@ -54,3 +54,6 @@ java -jar /Users/yura/workspace/Fuzz/jacoco-0.8.12/lib/jacococli.jar report jaco
 ```
 
 Из получнного **index.html** определяем покрытие
+<img width="1509" alt="Снимок экрана 2024-11-08 в 17 12 06" src="https://github.com/user-attachments/assets/305ff8f9-7891-418b-a109-be4c27513c67">
+
+
