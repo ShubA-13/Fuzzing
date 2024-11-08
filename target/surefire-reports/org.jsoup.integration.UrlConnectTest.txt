@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.jsoup.integration.UrlConnectTest
+-------------------------------------------------------------------------------
+Tests run: 44, Failures: 0, Errors: 0, Skipped: 44, Time elapsed: 0.001 s -- in org.jsoup.integration.UrlConnectTest

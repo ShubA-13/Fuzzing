@@ -1,0 +1,70 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'/Users/yura/.m2/repository/com/code-intelligence/jazzer/0.22.1/jazzer-0.22.1.jar:/Users/yura/.m2/repository/com/code-intelligence/jazzer-api/0.22.1/jazzer-api-0.22.1.jar:/Users/yura/.m2/repository/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar'
+-encoding
+'UTF-8'
+-overview
+'/Users/yura/workspace/Fuzz/src/main/javadoc/overview.html'
+-protected
+-source
+'8'
+-sourcepath
+'/Users/yura/workspace/Fuzz/src/main/java:/Users/yura/workspace/Fuzz/target/generated-sources/annotations:/Users/yura/workspace/Fuzz/src/main/javadoc'
+-author
+-bottom
+'Copyright &#169; 2009&#x2013;2024 <a href="https://jhy.io/">Jonathan Hedley</a>. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/yura/workspace/Fuzz/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'jsoup Java HTML Parser 1.18.2-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/yura/workspace/Fuzz/target/javadoc-bundle-options'
+-linksource
+-use
+-version
+-windowtitle
+'jsoup Java HTML Parser 1.18.2-SNAPSHOT API'
+org.jsoup.nodes
+org.jsoup
+org.jsoup.parser
+org.jsoup.safety
+org.jsoup.select
+org.jsoup.helper
+/Users/yura/.m2/repository/com/code-intelligence/jazzer/0.22.1/jazzer-0.22.1.jar = 1730387695719
+/Users/yura/.m2/repository/com/code-intelligence/jazzer-api/0.22.1/jazzer-api-0.22.1.jar = 1730387694868
+/Users/yura/.m2/repository/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar = 1731054454162
+/Users/yura/workspace/Fuzz/src/main/java = 1731054366589
+/Users/yura/workspace/Fuzz/target/generated-sources/annotations = 1731054610981
+/Users/yura/workspace/Fuzz/src/main/javadoc/overview.html = 1726038634000
+/Users/yura/workspace/Fuzz/src/main/javadoc = 1731054366783
+/Users/yura/workspace/Fuzz/target/reports/apidocs/constant-values.html = 1731054625029
+/Users/yura/workspace/Fuzz/target/reports/apidocs/tag-search-index.js = 1731054625286
+/Users/yura/workspace/Fuzz/target/reports/apidocs/overview-tree.html = 1731054625246
+/Users/yura/workspace/Fuzz/target/reports/apidocs/module-search-index.js = 1731054625284
+/Users/yura/workspace/Fuzz/target/reports/apidocs/index.html = 1731054625253
+/Users/yura/workspace/Fuzz/target/reports/apidocs/package-search-index.js = 1731054625284
+/Users/yura/workspace/Fuzz/target/reports/apidocs/link.svg = 1731054625323
+/Users/yura/workspace/Fuzz/target/reports/apidocs/serialized-form.html = 1731054625035
+/Users/yura/workspace/Fuzz/target/reports/apidocs/index-all.html = 1731054625315
+/Users/yura/workspace/Fuzz/target/reports/apidocs/allpackages-index.html = 1731054625283
+/Users/yura/workspace/Fuzz/target/reports/apidocs/deprecated-list.html = 1731054625248
+/Users/yura/workspace/Fuzz/target/reports/apidocs/member-search-index.js = 1731054625285
+/Users/yura/workspace/Fuzz/target/reports/apidocs/copy.svg = 1731054625323
+/Users/yura/workspace/Fuzz/target/reports/apidocs/script.js = 1731054625323
+/Users/yura/workspace/Fuzz/target/reports/apidocs/stylesheet.css = 1731054625322
+/Users/yura/workspace/Fuzz/target/reports/apidocs/search-page.js = 1731054625324
+/Users/yura/workspace/Fuzz/target/reports/apidocs/overview-summary.html = 1731054625317
+/Users/yura/workspace/Fuzz/target/reports/apidocs/help-doc.html = 1731054625321
+/Users/yura/workspace/Fuzz/target/reports/apidocs/element-list = 1731054625008
+/Users/yura/workspace/Fuzz/target/reports/apidocs/search.html = 1731054625316
+/Users/yura/workspace/Fuzz/target/reports/apidocs/allclasses-index.html = 1731054625283
+/Users/yura/workspace/Fuzz/target/reports/apidocs/type-search-index.js = 1731054625284
+/Users/yura/workspace/Fuzz/target/reports/apidocs/search.js = 1731054625324
