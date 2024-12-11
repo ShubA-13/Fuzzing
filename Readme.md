@@ -6,13 +6,6 @@
 
 Скачиваем библиотеку Jsoup - https://github.com/jhy/jsoup
 
-### Хэш-сумма репозитория
-```agsl
-find ./Fuzzing -type f -exec shasum -a 256 {} \; | shasum -a 256
-
-8ca8916a37d4b34ee1e58575e4019aec22ffba921af1e3661a9e9a51d9d08ba3
-```
-
 ### Запуск фаззинг-тестиования
 Библиотека Jsoup в java предназначена для работы с HTML, из нее берем директорию **src**, в нее добавляем обертку для фаззинга ParserFuzzerTest.java,
  и **pom.xml**, в него добаявляме зависимость com.code-intelligence для jazzer
